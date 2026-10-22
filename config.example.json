@@ -1,0 +1,31 @@
+{
+  "user_agent": "windows:qidian-radar:v1.0 (by /u/your_reddit_username)",
+  "client_id": "",
+  "client_secret": "",
+  "subreddits": [
+    "startups",
+    "SideProject",
+    "AppIdeas",
+    "Entrepreneur",
+    "indiehackers",
+    "SomebodyMakeThis",
+    "SaaS",
+    "microsaas",
+    "alphaandbetausers",
+    "nocode",
+    "buildinpublic",
+    "smallbusiness",
+    "selfhosted",
+    "LocalLLaMA",
+    "ChatGPT",
+    "automation",
+    "productmanagement",
+    "IMadeThis"
+  ],
+  "time_filter": "day",
+  "top_limit": 30,
+  "comment_candidate_limit": 30,
+  "comments_per_post": 10,
+  "request_interval_seconds": 1.0,
+  "output_file": "output.json"
+}
